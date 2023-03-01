@@ -1,0 +1,6 @@
+size: xs price: 15 color: mavi
+size: xl price: 20 color: mavi
+size: l price: 15 color: pembe
+size: m price: 15 color: siyah
+size: s price: 90 color: turuncu
+size: xs price: 15 color: yesil

@@ -1,0 +1,4 @@
+﻿  AlisverisUygulamasi.cpp
+C:\Users\Batuhan\source\repos\AlisverisUygulamasi\AlisverisUygulamasi\AlisverisUygulamasi.cpp(323,24): warning C4267: 'başlatılıyor': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Batuhan\source\repos\AlisverisUygulamasi\AlisverisUygulamasi\AlisverisUygulamasi.cpp(480,7): warning C4101: 'pin': yerel değişken başvurusu kaldırıldı
+  AlisverisUygulamasi.vcxproj -> C:\Users\Batuhan\source\repos\AlisverisUygulamasi\x64\Debug\AlisverisUygulamasi.exe

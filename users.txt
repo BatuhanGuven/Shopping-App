@@ -1,0 +1,3 @@
+ad_soyad: Taha Hisoglu telno: 5375709041 kullanici_adi: tahahisoglu eposta: tahahisoglu@gmail.com adres_ilce: ortahisar sifre: taha61 dtarihi: 19/08/2000 role: manager indirim_kodu: asdadas
+ad_soyad: Gurkan Kiymaz telno: 55554443333 kullanici_adi: gurkankiymaz eposta: gurkankiymaz@gmail.com adres_ilce: ortahisar sifre: gurkan123 dtarihi: 12/03/2000 role: member indirim_kodu: indiri
+ad_soyad: Batuhan Guven telno: 5554963806 kullanici_adi: batuhanguven eposta: batuhanguven555@gmail.com adres_ilce: ortahisar sifre: batu123 dtarihi: 17/06/2001 role: member indirim_kodu: indirim50ad_soyad: dfak telno: dfakf kullanici_adi: dafds eposta: kdajfs adres_ilce: jdfaksf sifre: 111 dtarihi: d role: member indirim_kodu: ***
